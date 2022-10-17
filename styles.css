@@ -1,0 +1,24 @@
+.p-frame {
+	border-radius: 100px;
+}
+
+.name{
+	text-align: left;
+
+
+}
+
+.frame {
+ width: 300px;
+}
+
+hr {
+	border: none;
+	height: 5px;
+	background-color: black;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+
+}
